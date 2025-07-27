@@ -79,7 +79,7 @@ I'm a passionate Flutter Developer with over 3.5 years of experience crafting hi
 
 ## 📫 Connect With Me
 
-- [LinkedIn](https://linkedin.com/in/anmol-mishra)
+- [LinkedIn](https://linkedin.com/in/anmol-mishra](https://www.linkedin.com/in/anmol-mishra-22a555113/)
 - [GitHub](https://github.com/anmolmishraa)
 - [Portfolio / Resume URL](https://drive.google.com/file/d/1vHZS_53yi5rqGB4GcyZ8VUfpbw8-FhS6/view?usp=sharing)
 
