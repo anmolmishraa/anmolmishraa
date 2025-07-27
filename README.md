@@ -14,8 +14,8 @@ I'm a passionate Flutter Developer with over 3.5 years of experience crafting hi
 - 💬 Ask me about Flutter, Firebase, State Management, App Deployment (Play Store & App Store)
 - 📫 Email me: **anmolmishra1012@gmail.com**
 - 🌍 Portfolio Projects:  
-  MAUI63 | Faleyat | Rispondo Io
-- 📄 [View My Resume](#)
+  MAUI63 | Faleyat | Rispondo Io | Oklend | Kyte-POS – Billing & Receipt Printing System  | HRMS – Human Resource Management App  | DiGA – Medical Appointment Booking App | 
+- 📄 [View My Resume](https://drive.google.com/file/d/1vHZS_53yi5rqGB4GcyZ8VUfpbw8-FhS6/view?usp=sharing)
 
 ---
 
@@ -80,8 +80,8 @@ I'm a passionate Flutter Developer with over 3.5 years of experience crafting hi
 ## 📫 Connect With Me
 
 - [LinkedIn](https://linkedin.com/in/anmol-mishra)
-- [GitHub](https://github.com/your-username) *(update with your GitHub handle)*
-- [Portfolio / Resume Site](#) *(optional)*
+- [GitHub](https://github.com/anmolmishraa)
+- [Portfolio / Resume URL](https://drive.google.com/file/d/1vHZS_53yi5rqGB4GcyZ8VUfpbw8-FhS6/view?usp=sharing)
 
 ---
 
